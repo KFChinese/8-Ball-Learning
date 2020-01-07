@@ -1,5 +1,7 @@
+# 8 Ball with Python
 
-Project idea from: https://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/
+
+Original Project idea from: https://www.reddit.com/r/beginnerprojects/comments/29aqox/project_magic_8_ball/
 
 [Goal]
 
